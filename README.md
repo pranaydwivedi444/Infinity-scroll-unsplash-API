@@ -1,6 +1,7 @@
 # Infinity-scroll-unsplash-API
 Infinity Scroll - Unsplash API
 This is a web app that allows users to browse a random selection of photos from the Unsplash API using an infinite scroll feature. The app also includes responsive design, intersection observer API, and lazy loading.
+![Infinity Scroll (1)](https://user-images.githubusercontent.com/48515987/224831810-5d29bf1c-cab1-4b4f-aa10-f91eb33066af.gif)
 
 ## Features
 Responsive Design
